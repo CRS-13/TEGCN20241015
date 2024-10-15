@@ -1,0 +1,109 @@
+[ Fri Oct  4 18:30:15 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:30:16 2024 ] using warm up, epoch: 0
+[ Fri Oct  4 18:31:15 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:31:15 2024 ] using warm up, epoch: 0
+[ Fri Oct  4 18:33:45 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:33:45 2024 ] using warm up, epoch: 0
+[ Fri Oct  4 18:34:31 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:34:32 2024 ] using warm up, epoch: 0
+[ Fri Oct  4 18:35:56 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:36:03 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:36:41 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:36:42 2024 ] using warm up, epoch: 0
+[ Fri Oct  4 18:40:00 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:41:00 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:41:01 2024 ] using warm up, epoch: 0
+[ Fri Oct  4 18:45:40 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:45:40 2024 ] using warm up, epoch: 0
+[ Fri Oct  4 18:47:34 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:47:34 2024 ] using warm up, epoch: 0
+[ Fri Oct  4 18:55:14 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:55:14 2024 ] using warm up, epoch: 0
+[ Fri Oct  4 18:56:36 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 18:56:36 2024 ] using warm up, epoch: 0
+[ Fri Oct  4 19:03:22 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Fri Oct  4 19:03:22 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 21:17:58 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 21:17:59 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 21:36:19 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 21:36:19 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 21:37:43 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 21:37:43 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 21:49:26 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 21:49:26 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 21:50:34 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 21:50:34 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 21:52:11 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 21:52:12 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 21:53:02 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 21:53:02 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 21:54:09 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 21:54:09 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 21:55:16 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 21:55:16 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:12:34 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:12:34 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:12:57 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:12:57 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:14:05 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:14:05 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:15:11 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:15:11 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:16:40 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:16:40 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:18:06 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:18:06 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:26:51 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:26:52 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:29:28 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:29:28 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:30:42 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:30:42 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:32:38 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:32:38 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:34:19 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:34:20 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:35:42 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:35:42 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:37:42 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:37:43 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:44:14 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:44:14 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:45:22 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:45:22 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:46:31 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:46:31 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:49:02 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:49:03 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:52:36 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:52:36 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:54:15 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:54:15 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 22:54:58 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 22:54:58 2024 ] using warm up, epoch: 0
+[ Sat Oct  5 23:00:27 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sat Oct  5 23:00:27 2024 ] using warm up, epoch: 0
+[ Sun Oct  6 13:49:42 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sun Oct  6 13:49:42 2024 ] using warm up, epoch: 0
+[ Sun Oct  6 13:53:16 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sun Oct  6 13:53:17 2024 ] using warm up, epoch: 0
+[ Sun Oct  6 13:55:35 2024 ] Load weights from runs/1041-52-15529.pt.
+[ Sun Oct  6 13:55:35 2024 ] using warm up, epoch: 0
+[ Sun Oct  6 14:02:32 2024 ] Load weights from runs/0057-46-14006.pt.
+[ Sun Oct  6 14:02:33 2024 ] using warm up, epoch: 0
+[ Sun Oct  6 14:20:41 2024 ] Load weights from runs/0057-46-14006.pt.
+[ Sun Oct  6 14:20:41 2024 ] using warm up, epoch: 0
+[ Sun Oct  6 14:26:54 2024 ] Load weights from runs/0057-46-14006.pt.
+[ Sun Oct  6 14:26:55 2024 ] using warm up, epoch: 0
+[ Sun Oct  6 15:06:08 2024 ] Load weights from runs/0057-46-14006.pt.
+[ Sun Oct  6 15:06:08 2024 ] using warm up, epoch: 0
+[ Sun Oct  6 15:14:01 2024 ] Load weights from runs/0057-46-14006.pt.
+[ Sun Oct  6 15:14:01 2024 ] using warm up, epoch: 0
+[ Sun Oct  6 15:33:11 2024 ] Load weights from runs/0057-46-14006.pt.
+[ Sun Oct  6 15:33:11 2024 ] using warm up, epoch: 0
+[ Mon Oct  7 10:49:17 2024 ] Load weights from /home/zjl_laoshi/yuxin/TE-GCN-main/runs/2102-49-14650.pt.
+[ Mon Oct  7 10:49:17 2024 ] using warm up, epoch: 0
+[ Mon Oct  7 10:52:53 2024 ] Load weights from /home/zjl_laoshi/yuxin/TE-GCN-main/runs/2102-49-14650.pt.
+[ Mon Oct  7 10:52:53 2024 ] using warm up, epoch: 0
+[ Mon Oct  7 10:53:36 2024 ] Load weights from /home/zjl_laoshi/yuxin/TE-GCN-main/runs/2102-49-14650.pt.
+[ Mon Oct  7 10:53:36 2024 ] using warm up, epoch: 0
