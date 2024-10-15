@@ -9,7 +9,7 @@ from model.module_ta import Multi_Head_Temporal_Attention
 from model.module_cau import unit_tcn_causal
 from einops import rearrange,reduce
 # from .improve_model.CBAM import *
-from .improve_model.DSC import *
+from .improve_model.CAA import *
 # from .improve_model.CGA import *
 
 
@@ -61,14 +61,14 @@ class unit_tcn(nn.Module):
 
         self.bn = nn.BatchNorm2d(out_channels)
         self.relu = nn.ReLU(inplace=True)
-        self.DSC = DepthwiseSeparableConv(in_channels,out_channels = in_channels)
+        self.CAA = CAA(in_channels)
         # self.CGA = CGAFusion(in_channels)
         conv_init(self.conv)
         bn_init(self.bn, 1)
 
     def forward(self, x):
         # x = self.CGA(x,x)
-        x = self.DSC(x)
+        x = self.CAA(x)
         x = self.bn(self.conv(x))
         return x
 
